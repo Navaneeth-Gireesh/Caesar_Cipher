@@ -20,4 +20,4 @@ The Caesar Cipher is a simple encryption technique used in ancient Rome, named a
 
 3. **Run the Script**:
    ```bash
-   python caesar_cipher.py
+   python main.py
