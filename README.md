@@ -13,6 +13,11 @@ The Caesar Cipher is a simple encryption technique used in ancient Rome, named a
 1. **Ensure Python is Installed**:
    Make sure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
 
-2. **Run the Script**:
+2. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Navaneeth-Gireesh/Caesar-Cipher.git
+   cd caesar-cipher
+
+3. **Run the Script**:
    ```bash
    python caesar_cipher.py
